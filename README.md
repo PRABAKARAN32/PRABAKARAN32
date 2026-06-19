@@ -1,8 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"  />
+<h2 align="left">👋 Hi, I'm Prabakaran | Software Engineer • DevOps Enthusiast • AI Builder</h2>
 
 ###
 
@@ -28,8 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
   <img width="12" />
@@ -83,7 +77,7 @@
 ###
 
 <div align="left">
-  <a href="pra" target="_blank">
+  <a href="https://www.instagram.com/praba_karan_32/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/prabakaran-j-989982265/" target="_blank">
@@ -102,8 +96,119 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+<img align="right" height="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 ###
+
+<br clear="both">
+
+---
+
+## 🚀 About Me
+
+- 🎓 Final Year Computer Science & Design Student
+- 💼 Incoming Software Engineering Intern @ Endava
+- ☁️ AWS Certified Cloud Practitioner
+
+**🔭 Currently Building:**
+- AI Powered Spoken English Learning Platform
+- Full Stack Applications with Flutter & FastAPI
+- Agentic AI Systems using LangGraph & MCP
+
+**🌱 Currently Learning:**
+- Agentic AI Engineering & Multi-Agent Systems
+- Terraform & Cloud Architecture
+- Advanced Kubernetes
+
+**🎯 2026 Goals:**
+- Become a Top Software Engineer
+- Contribute to Open Source
+- Master DevOps & Cloud Native Technologies
+- Land a High Impact Product Engineering Role
+
+---
+
+## 🏆 Achievements
+
+- 🥇 AWS Certified Cloud Practitioner
+- 🚀 Deployed Production Workloads on Azure Kubernetes Service (AKS)
+- ⚡ Built Complete CI/CD Pipelines using GitLab CI/CD
+- 🔐 Developed Adaptive Authentication System using Behavioral Biometrics
+- 🤖 Built AI-Powered Thumbnail Generator using Gemini API
+- 📱 Building AI Spoken English Learning Platform
+- ☁️ Hands-on with AWS, Azure, Docker, Kubernetes & Terraform
+
+---
+
+## 🚀 Featured Projects
+
+### 🎨 Thumblify
+AI Powered Thumbnail Generation Platform
+
+**Tech Stack:** React • Node.js • MongoDB • Docker • Kubernetes • Azure • GitLab CI/CD • Gemini AI
+
+---
+
+### 🔐 Adaptive Authentication
+Behavioral Biometrics Authentication using Tamil Character Dynamics
+
+**Tech Stack:** Python • Scikit-Learn • One-Class SVM • Random Forest • Machine Learning
+
+---
+
+### 🎙️ Spoken English Learning App
+AI Powered English Learning Mobile Application
+
+**Tech Stack:** Flutter • FastAPI • MongoDB • Docker
+
+---
+
+## ⚙️ DevOps Arsenal
+
+```text
+☁️  Cloud          AWS | Azure
+🐳  Containers     Docker | Kubernetes
+🚀  CI/CD          GitHub Actions | GitLab CI/CD
+🏗️  IaC            Terraform
+📊  Monitoring     Grafana | Prometheus
+🗄️  Databases      MongoDB | PostgreSQL | MySQL | Redis
+🔐  Security       JWT | Azure Key Vault
+```
+
+---
+
+## 📈 Contribution Graph
+
+[![Prabakaran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PRABAKARAN32&theme=tokyo-night)](https://github.com/PRABAKARAN32)
+
+---
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/PRABAKARAN32/PRABAKARAN32/snake-output/snake.svg" alt="Snake animation" />
+
+---
+
+## ⚡ GitHub Metrics
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PRABAKARAN32&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PRABAKARAN32&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PRABAKARAN32&theme=github_dark)
+
+---
+
+## 💭 Philosophy
+
+> **"Update or Uninstall."**
+
+I believe in continuous improvement, building systems that scale, and turning ideas into products that solve real problems.
+
+Every day is an opportunity to become **1% better** than yesterday.
+
+###
+
+<div>
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
