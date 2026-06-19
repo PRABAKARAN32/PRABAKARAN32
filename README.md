@@ -185,7 +185,7 @@ AI Powered English Learning Mobile Application
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/PRABAKARAN32/PRABAKARAN32/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/a0f0a3d2ab9631b370485e79018c48c67b139ab6/public/assets/snake.svg" alt="Snake animation" />
 
 ---
 
