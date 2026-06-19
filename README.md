@@ -76,31 +76,31 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.instagram.com/praba_karan_32/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/prabakaran-j-989982265/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="prabakaranlearning@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://gitlab.com/prabakaranabcabc" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
-  </a>
-  <a href="https://prabakaran.tech" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=My-Profile&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
-  </a>
+<div>
+  <img align="right" height="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+
+  <div align="left">
+    <a href="https://www.instagram.com/praba_karan_32/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+    </a>
+    <a href="https://www.linkedin.com/in/prabakaran-j-989982265/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    </a>
+    <a href="mailto:prabakaranlearning@gmail.com" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    </a>
+    <a href="https://gitlab.com/prabakaranabcabc" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo" />
+    </a>
+    <a href="https://prabakaran.tech" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=My-Profile&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo" />
+    </a>
+  </div>
 </div>
 
-###
+<br clear="both" />
 
-<img align="right" height="150" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"  />
-
-###
-
-<br clear="both">
+<img src="https://raw.githubusercontent.com/PRABAKARAN32/PRABAKARAN32/snake-output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ---
 
@@ -111,16 +111,19 @@
 - ☁️ AWS Certified Cloud Practitioner
 
 **🔭 Currently Building:**
+
 - AI Powered Spoken English Learning Platform
 - Full Stack Applications with Flutter & FastAPI
 - Agentic AI Systems using LangGraph & MCP
 
 **🌱 Currently Learning:**
+
 - Agentic AI Engineering & Multi-Agent Systems
 - Terraform & Cloud Architecture
 - Advanced Kubernetes
 
 **🎯 2026 Goals:**
+
 - Become a Top Software Engineer
 - Contribute to Open Source
 - Master DevOps & Cloud Native Technologies
@@ -143,6 +146,7 @@
 ## 🚀 Featured Projects
 
 ### 🎨 Thumblify
+
 AI Powered Thumbnail Generation Platform
 
 **Tech Stack:** React • Node.js • MongoDB • Docker • Kubernetes • Azure • GitLab CI/CD • Gemini AI
@@ -150,16 +154,10 @@ AI Powered Thumbnail Generation Platform
 ---
 
 ### 🔐 Adaptive Authentication
+
 Behavioral Biometrics Authentication using Tamil Character Dynamics
 
 **Tech Stack:** Python • Scikit-Learn • One-Class SVM • Random Forest • Machine Learning
-
----
-
-### 🎙️ Spoken English Learning App
-AI Powered English Learning Mobile Application
-
-**Tech Stack:** Flutter • FastAPI • MongoDB • Docker
 
 ---
 
@@ -180,12 +178,6 @@ AI Powered English Learning Mobile Application
 ## 📈 Contribution Graph
 
 [![Prabakaran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PRABAKARAN32&theme=tokyo-night)](https://github.com/PRABAKARAN32)
-
----
-
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation"/>
 
 ---
 
