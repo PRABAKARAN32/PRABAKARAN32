@@ -136,9 +136,7 @@
 - 🥇 AWS Certified Cloud Practitioner
 - 🚀 Deployed Production Workloads on Azure Kubernetes Service (AKS)
 - ⚡ Built Complete CI/CD Pipelines using GitLab CI/CD
-- 🔐 Developed Adaptive Authentication System using Behavioral Biometrics
 - 🤖 Built AI-Powered Thumbnail Generator using Gemini API
-- 📱 Building AI Spoken English Learning Platform
 - ☁️ Hands-on with AWS, Azure, Docker, Kubernetes & Terraform
 
 ---
