@@ -1,12 +1,13 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+DevOps+%7C+AI+Builder;Ex-SWE+Intern+%40+Endava;Building+Systems+That+Scale" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=Software+Engineer+%7C+DevOps+%7C+AI+Builder;Ex-SWE+Intern+%40+Endava;Building+Systems+That+Scale" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/prabakaran-j-989982265"><img src="https://img.shields.io/badge/LinkedIn-Prabakaran-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/prabakaran-j-989982265"><img src="https://img.shields.io/badge/LinkedIn-Prabakaran-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:prabakaranlearning@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/PRABAKARAN37/"><img src="https://img.shields.io/badge/LeetCode-PRABAKARAN37-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
   <a href="https://github.com/PRABAKARAN32"><img src="https://img.shields.io/badge/GitHub-PRABAKARAN32-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Open_to_Collaborate-Yes-2EA043?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Open_to_Work-8B5CF6?style=for-the-badge" />
